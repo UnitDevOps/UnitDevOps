@@ -7,7 +7,7 @@ DevOps collaboration teem staging point.
 ([UNIT](https://unitcoin.me))
 ([Foundation](https://www.unifiedtoken.net))
 
-Skills: BLOCKCHAIN / SOLIDITY / REACT / JS / HTML / CSS
+BLOCKCHAIN / SOLIDITY / REACT / JS / HTML / CSS
 <!--
 **UnitDevOps/UnitDevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
