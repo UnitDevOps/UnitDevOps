@@ -1,4 +1,4 @@
-![Development Portal](https://unitcoin.me/web/banner.mp4)
+![Development Portal](https://unitcoin.me/web/banner.gif)
 # UNIT COIN 
 ### Development Portal
 
